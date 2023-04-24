@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @m-alghobary (Mohamed Alghobary) A normal Web full-stack developer
-- 👀 I’m interested in Laravel, .NET, Vue, and Rust
+- 👋 Hi, I’m @m-alghobary (Mohamed Alghobary) a normal web full-stack developer
+- 👀 I’m interested in .NET, Laravel, Rust and Vue
 
 <!---
 m-alghobary/m-alghobary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
